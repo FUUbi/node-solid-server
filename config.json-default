@@ -6,6 +6,7 @@
   "mount": "/",
   "configPath": "./config",
   "dbPath": "./.db",
+  "gitHttpBackendPath": "/usr/lib/git-core/git-http-backend"
   "sslKey": "./privkey.pem",
   "sslCert": "./fullchain.pem",
   "multiuser": true,
