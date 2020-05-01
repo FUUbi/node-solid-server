@@ -55,6 +55,7 @@
   "homepage": "https://github.com/solid/node-solid-server",
   "bugs": "https://github.com/solid/node-solid-server/issues",
   "dependencies": {
+    "@fuubi/node-git-http-backend": "0.0.1",
     "@solid/acl-check": "^0.2.1",
     "@solid/oidc-auth-manager": "^0.18.2",
     "body-parser": "^1.18.3",
@@ -74,7 +75,6 @@
     "from2": "^2.1.0",
     "fs-extra": "^2.1.0",
     "get-folder-size": "^2.0.0",
-    "git-http-backend": "file:../../node-git-http-backend",
     "glob": "^7.1.1",
     "global-tunnel-ng": "^2.1.0",
     "handlebars": "^4.7.2",
